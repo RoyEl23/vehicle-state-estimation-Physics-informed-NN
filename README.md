@@ -87,16 +87,6 @@ pip install -r requirements.txt
 - `stable-baselines3` – RL algorithms (PPO, DDPG, etc.)  
 - `cvxpy` – optimization for MPC  
 
----
-
-## Roadmap  
-
-- ✅ Week 1: Vehicle dynamics simulation (kinematic bicycle model)  
-- ✅ Week 2: Baseline NN for state prediction  
-- ✅ Week 3: PINNs for improved prediction  
-- ✅ Week 4: Classical controllers (PID, MPC)  
-- ✅ Week 5: ML-based controllers (IL, RL)  
-- ✅ Week 6: Experiments & results  
 
 ---
 
@@ -108,6 +98,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📝 License  
+## License  
 
 This project is open source under the [MIT License](LICENSE).  
