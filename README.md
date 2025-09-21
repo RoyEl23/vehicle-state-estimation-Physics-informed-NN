@@ -1,4 +1,4 @@
-# 🚗 Physics-Informed Neural Networks & ML Controllers for Vehicle Dynamics  
+git# 🚗 Physics-Informed Neural Networks & ML Controllers for Vehicle Dynamics  
 
 This project explores **state prediction using Physics-Informed Neural Networks (PINNs)** and **machine learning–based control methods** for vehicle dynamics in the autonomous driving domain.  
 
