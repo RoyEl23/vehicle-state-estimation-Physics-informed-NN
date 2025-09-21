@@ -1,4 +1,4 @@
-# 🚗 Physics-Informed Neural Networks & ML Controllers for Vehicle Dynamics  
+# Physics-Informed Neural Networks & ML Controllers for Vehicle Dynamics  
 
 This project explores **state prediction using Physics-Informed Neural Networks (PINNs)** and **machine learning–based control methods** for vehicle dynamics in the autonomous driving domain.  
 
@@ -10,7 +10,7 @@ The goal is to:
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 ```
 vehicle-dynamics-ml/
@@ -55,29 +55,29 @@ vehicle-dynamics-ml/
 
 ---
 
-## ⚡ Getting Started  
+## Getting Started  
 
-### 1️⃣ Clone the repository
+### 1️Clone the repository
 ```bash
 git clone https://github.com/<your-username>/vehicle-dynamics-ml.git
 cd vehicle-dynamics-ml
 ```
 
-### 2️⃣ Create a virtual environment
+### 2️Create a virtual environment
 ```bash
 python -m venv venv
 venv\Scripts\activate   # Windows
 source venv/bin/activate # Mac/Linux
 ```
 
-### 3️⃣ Install dependencies
+### 3️Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
 
-## 📦 Dependencies  
+## Dependencies  
 
 - `numpy` – numerical computations  
 - `scipy` – scientific functions  
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Roadmap  
+## Roadmap  
 
 - ✅ Week 1: Vehicle dynamics simulation (kinematic bicycle model)  
 - ✅ Week 2: Baseline NN for state prediction  
@@ -100,7 +100,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Results (to be added)  
+## Results (to be added)  
 
 - PINN vs NN prediction accuracy  
 - Controller performance (tracking error, smoothness)  
