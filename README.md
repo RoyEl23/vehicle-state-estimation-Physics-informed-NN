@@ -1,4 +1,5 @@
-git# 🚗 Physics-Informed Neural Networks & ML Controllers for Vehicle Dynamics  
+
+# Physics-Informed Neural Networks & ML Controllers for Vehicle Dynamics  
 
 This project explores **state prediction using Physics-Informed Neural Networks (PINNs)** and **machine learning–based control methods** for vehicle dynamics in the autonomous driving domain.  
 
@@ -10,7 +11,7 @@ The goal is to:
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 ```
 vehicle-dynamics-ml/
@@ -55,29 +56,29 @@ vehicle-dynamics-ml/
 
 ---
 
-## ⚡ Getting Started  
+## Getting Started  
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/vehicle-dynamics-ml.git
+git clone https://github.com/RoyEl23/Motion_Prediction_of_Automated_Vehicle-master.git
 cd vehicle-dynamics-ml
 ```
 
-### 2️⃣ Create a virtual environment
+### 2️ Create a virtual environment
 ```bash
 python -m venv venv
 venv\Scripts\activate   # Windows
 source venv/bin/activate # Mac/Linux
 ```
 
-### 3️⃣ Install dependencies
+### 3️ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
 
-## 📦 Dependencies  
+## Dependencies  
 
 - `numpy` – numerical computations  
 - `scipy` – scientific functions  
@@ -87,20 +88,10 @@ pip install -r requirements.txt
 - `stable-baselines3` – RL algorithms (PPO, DDPG, etc.)  
 - `cvxpy` – optimization for MPC  
 
----
-
-## 🚀 Roadmap  
-
-- ✅ Week 1: Vehicle dynamics simulation (kinematic bicycle model)  
-- ✅ Week 2: Baseline NN for state prediction  
-- ✅ Week 3: PINNs for improved prediction  
-- ✅ Week 4: Classical controllers (PID, MPC)  
-- ✅ Week 5: ML-based controllers (IL, RL)  
-- ✅ Week 6: Experiments & results  
 
 ---
 
-## 📊 Results (to be added)  
+## Results (to be added)  
 
 - PINN vs NN prediction accuracy  
 - Controller performance (tracking error, smoothness)  
@@ -108,6 +99,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📝 License  
+## License  
 
 This project is open source under the [MIT License](LICENSE).  
