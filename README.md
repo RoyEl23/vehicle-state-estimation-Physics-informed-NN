@@ -57,20 +57,20 @@ vehicle-dynamics-ml/
 
 ## Getting Started  
 
-### 1️Clone the repository
+### 1️ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/vehicle-dynamics-ml.git
+git clone https://github.com/RoyEl23/Motion_Prediction_of_Automated_Vehicle-master.git
 cd vehicle-dynamics-ml
 ```
 
-### 2️Create a virtual environment
+### 2️ Create a virtual environment
 ```bash
 python -m venv venv
 venv\Scripts\activate   # Windows
 source venv/bin/activate # Mac/Linux
 ```
 
-### 3️Install dependencies
+### 3️ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
